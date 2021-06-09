@@ -19,12 +19,7 @@ Práctica 2
 
 ## 2. MARCO TEÓRICO 
 
-
-
-
-
-
-
+![](https://github.com/Jhosu115/Taller-2/blob/main/WhatsApp%20Image%202021-06-08%20at%209.15.19%20PM.jpeg)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
