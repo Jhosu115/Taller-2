@@ -31,10 +31,7 @@ Práctica 2
 
 ## 5. VIDEO
 
-
-
-
-
+[![Video de los ejercicios](https://github.com/Jhosu115/Tarea-2-/blob/main/imagen_2021-06-07_224156.png)](https://youtu.be/gxCNHONIrNo)
 
 ## 6. CONCLUSIONES
 
@@ -44,6 +41,11 @@ Práctica 2
 
 ## 7. BIBLIOGRAFÍA
 
+* https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
+* https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
+* http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
 
 
 
