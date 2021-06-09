@@ -19,15 +19,39 @@ Práctica 2
 
 ## 2. MARCO TEÓRICO 
 
+
+
+
+
+
+
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+
+
+
+
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
 
 ## 5. VIDEO
 
 
+
+
+
+
 ## 6. CONCLUSIONES
 
+* Gracias al analisis de mallas se ha podido completar satisfactoriamente el trabajao 
 
+* Al emplear los diferentes simuladores, sabesmos los resultados de cada una de las mallas
 
 ## 7. BIBLIOGRAFÍA
+
+
+
+
