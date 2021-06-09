@@ -27,8 +27,7 @@ Práctica 2
 
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
-
+[RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR](https://github.com/Jhosu115/Taller-2/blob/main/tabla.pdf)
 
 ## 5. VIDEO
 
